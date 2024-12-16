@@ -1183,6 +1183,17 @@ td.has-event:after {
 
 @media(max-width:750px) {
 
+  .Nav_Container {
+    position: relative;
+    padding: 0;
+}
+
+  .Main_HomePasge_Navbar {
+    position: unset;
+    display: block;
+    border-radius: 0;
+  }
+
   .Slider {
     height: 200px;
   }
