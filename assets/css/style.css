@@ -1192,6 +1192,7 @@ td.has-event:after {
     position: unset;
     display: block;
     border-radius: 0;
+    background: #343fb7;
   }
 
   .Slider {
